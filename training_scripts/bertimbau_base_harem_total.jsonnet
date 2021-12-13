@@ -1,5 +1,5 @@
-local train_data = "/HAREM/data/harem_train_total_conll2003.txt";
-local dev_data = "/HAREM/data/harem_test_total_conll2003.txt";
+local train_data = "/content/HAREM/data/harem_train_total_conll2003.txt";
+local dev_data = "/content/HAREM/data/harem_test_total_conll2003.txt";
 
 local transformer_model = "neuralmind/bert-base-portuguese-cased";
 local transformer_hidden_dim = 768;
